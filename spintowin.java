@@ -1,4 +1,4 @@
-package CST_Practice;
+package Spring2021;
 import java.util.Random;
 import  java.util.Scanner;
 import java.util.List;
